@@ -1,362 +1,1004 @@
 [
   {
     "question": "What does Frontastic primarily aim to simplify?",
-    "answer": "Building commerce sites in a headless world",
     "options": [
-      "Building mobile apps",
       "Building commerce sites in a headless world",
+      "Creating mobile applications",
       "Managing databases",
-      "Creating animations"
-    ]
-  },
-  {
-    "question": "How many main parts does Frontastic have?",
-    "answer": "4",
-    "options": ["3", "4", "5", "6"]
-  },
-  {
-    "question": "Which of the following is NOT a part of Frontastic?",
-    "answer": "Backend storage",
-    "options": ["API hub", "Developer tooling", "Frontastic studio", "Backend storage"]
-  },
-  {
-    "question": "What does Frontastic's API hub primarily help with?",
-    "answer": "Connecting and working with your technology stack",
-    "options": [
-      "Storing data",
-      "Connecting and working with your technology stack",
-      "Animating components",
-      "Managing users"
-    ]
-  },
-  {
-    "question": "Frontastic components are primarily built using which technology?",
-    "answer": "React",
-    "options": ["Vue", "Angular", "React", "Svelte"]
-  },
-  {
-    "question": "What is the primary purpose of the Frontastic studio?",
-    "answer": "To manage your projects",
-    "options": [
-      "To code components",
-      "To manage databases",
-      "To manage your projects",
-      "To design graphics"
-    ]
-  },
-  {
-    "question": "What does Frontastic provide along with auto-scaling and fail-safe hosting?",
-    "answer": "Server Side Rendering (SSR)",
-    "options": [
-      "Database backups",
-      "Server Side Rendering (SSR)",
-      "Mobile app development",
-      "Graphic design tools"
-    ]
-  },
-  {
-    "question": "How do developers extend the API hub or modify the Server Side Rendering in Frontastic?",
-    "answer": "Using a Frontastic sandbox provisioned in the Frontastic studio",
-    "options": [
-      "Using a separate software",
-      "Using a Frontastic sandbox provisioned in the Frontastic studio",
-      "By contacting Frontastic support",
-      "Using third-party plugins"
-    ]
-  },
-  {
-    "question": "To build, modify, and deploy Frontastic components, developers use the Frontastic CLI in combination with what?",
-    "answer": "The Frontastic studio",
-    "options": [
-      "A separate IDE",
-      "The Frontastic studio",
-      "A mobile app",
-      "A graphic design tool"
-    ]
-  },
-  {
-    "question": "As a business user, where would you primarily work to manage and optimize your commerce site in Frontastic?",
-    "answer": "Frontastic studio",
-    "options": ["Frontastic CLI", "Frontastic studio", "API hub", "Developer tooling"]
-  },
-  {
-    "question": "Frontastic's API hub comes with standard integrations for what kind of services?",
-    "answer": "Headless services",
-    "options": [
-      "Database services",
-      "Headless services",
-      "Graphic design services",
-      "Mobile app services"
-    ]
-  },
-  {
-    "question": "What is the main advantage of using Frontastic's API hub?",
-    "answer": "Helps with the complex wiring that comes with composable architectures",
-    "options": [
-      "Provides graphic design templates",
-      "Helps with the complex wiring that comes with composable architectures",
-      "Offers mobile app development tools",
-      "Manages user accounts"
-    ]
-  },
-  {
-    "question": "Frontastic components are React components with what?",
-    "answer": "A schema",
-    "options": ["A database", "A schema", "A mobile app", "A graphic design"]
-  },
-  {
-    "question": "What does Frontastic provide to get developers started quickly?",
-    "answer": "A set of starter components for common commerce use cases",
-    "options": [
-      "A set of starter components for common commerce use cases",
-      "A mobile app development kit",
-      "A database management system",
-      "A graphic design toolkit"
-    ]
-  },
-  {
-    "question": "Which of the following is a common commerce use case provided by Frontastic's starter components?",
-    "answer": "Product listings",
-    "options": ["User account management", "Product listings", "Mobile app design", "Database queries"]
-  },
-  {
-    "question": "What does Frontastic serve the website as?",
-    "answer": "A Progressive Web App (PWA)",
-    "options": ["A mobile app", "A desktop application", "A Progressive Web App (PWA)", "A static website"]
-  },
-  {
-    "question": "Where can you find more information about the Frontastic architecture?",
-    "answer": "In the article about the Frontastic architecture and Frontastic stack",
-    "options": [
-      "In the Frontastic mobile app",
-      "In the article about the Frontastic architecture and Frontastic stack",
-      "In the Frontastic CLI",
-      "In the Frontastic database"
-    ]
-  },
-  {
-    "question": "How do developers interact with Frontastic?",
-    "answer": "Using a Frontastic sandbox and the Frontastic CLI",
-    "options": [
-      "Using a mobile app",
-      "Using a Frontastic sandbox and the Frontastic CLI",
-      "Using a graphic design tool",
-      "Using a database management system"
-    ]
-  },
-  {
-    "question": "How do business users primarily interact with Frontastic?",
-    "answer": "Working within the Frontastic studio",
-    "options": [
-      "Coding in the Frontastic CLI",
-      "Working within the Frontastic studio",
-      "Designing in a graphic design tool",
-      "Managing databases"
-    ]
-  },
-  {
-    "question": "Where can users provide feedback or seek help regarding Frontastic documentation?",
-    "answer": "Using the 'Submit a ticket' button at the top of the page",
-    "options": [
-      "Sending an email to the Frontastic team",
-      "Using the 'Submit a ticket' button at the top of the page",
-      "Posting on the Frontastic forum",
-      "Calling the Frontastic helpline"
-    ]
+      "Designing graphics"
+    ],
+    "answer": "Building commerce sites in a headless world"
   },
   {
     "question": "Which of the following is NOT a feature of Frontastic?",
-    "answer": "Mobile app development",
     "options": [
-      "Orchestration of data from different headless services",
-      "Optimized websites for performance and mobile-first",
-      "Mobile app development",
-      "Creation and management of websites in a business UI"
-    ]
+      "Orchestrating data from different headless services",
+      "Building mobile applications",
+      "Creating, managing, and optimizing websites in a business UI",
+      "Serving websites as PWAs optimized for performance"
+    ],
+    "answer": "Building mobile applications"
   },
   {
-    "question": "What does Frontastic's Developer tooling primarily provide?",
-    "answer": "A development framework and tools to build, deploy, and iterate on a commerce site",
+    "question": "How many main parts does Frontastic have?",
     "options": [
-      "A graphic design toolkit",
-      "A mobile app development framework",
-      "A development framework and tools to build, deploy, and iterate on a commerce site",
-      "A database management system"
-    ]
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "4"
   },
   {
-    "question": "Frontastic components are built by whom and added to pages by whom?",
-    "answer": "Built by developers, added by business users",
+    "question": "What does Frontastic's API hub provide?",
     "options": [
-      "Built by business users, added by developers",
-      "Built and added by developers",
-      "Built by developers, added by business users",
-      "Built and added by business users"
-    ]
-  },
-  {
-    "question": "What kind of rendering does Frontastic provide for the delivery layer?",
-    "answer": "Server Side Rendering (SSR)",
-    "options": ["Client Side Rendering", "Database Rendering", "Server Side Rendering (SSR)", "Mobile Rendering"]
-  },
-  {
-    "question": "To modify the Server Side Rendering in Frontastic, developers work with what?",
-    "answer": "A Frontastic sandbox",
-    "options": ["Frontastic CLI", "Frontastic studio", "A Frontastic mobile app", "A Frontastic sandbox"]
-  },
-  {
-    "question": "What is the primary interface used to manage Frontastic projects?",
-    "answer": "The Frontastic studio",
-    "options": ["Frontastic CLI", "API hub", "The Frontastic studio", "Developer tooling"]
-  },
-  {
-    "question": "Frontastic's API hub provides integrations for which kind of services?",
-    "answer": "Headless services",
-    "options": ["Database services", "Headless services", "Mobile app services", "Design services"]
-  },
-  {
-    "question": "What is the primary advantage of Frontastic's API hub?",
-    "answer": "Unified way of connecting and working with your technology stack",
-    "options": [
-      "Graphic design capabilities",
-      "Mobile app development",
-      "Unified way of connecting and working with your technology stack",
-      "Database management"
-    ]
-  },
-  {
-    "question": "Which of the following is a feature of the Frontastic studio?",
-    "answer": "Editing and optimizing sites",
-    "options": ["Coding components", "Database management", "Editing and optimizing sites", "Mobile app design"]
-  },
-  {
-    "question": "What kind of applications does Frontastic primarily focus on delivering?",
-    "answer": "Progressive Web Apps (PWA)",
-    "options": ["Desktop applications", "Mobile native apps", "Progressive Web Apps (PWA)", "Static websites"]
-  },
-  {
-    "question": "What kind of components does Frontastic offer to get developers started?",
-    "answer": "Starter components for common commerce use cases",
-    "options": [
-      "Advanced components for database management",
-      "Starter components for common commerce use cases",
-      "Components for mobile app design",
-      "Components for graphic design"
-    ]
-  },
-  {
-    "question": "Which of the following is a use case for Frontastic's starter components?",
-    "answer": "Cart and checkout",
-    "options": ["User profile design", "Mobile app navigation", "Database queries", "Cart and checkout"]
-  },
-  {
-    "question": "What is the role of the Frontastic studio for business users?",
-    "answer": "To create, manage, and optimize commerce sites",
-    "options": [
-      "To code and design components",
-      "To manage the backend database",
-      "To create, manage, and optimize commerce sites",
-      "To handle API integrations"
-    ]
-  },
-  {
-    "question": "How is the data brought into Frontastic components?",
-    "answer": "From the API hub",
-    "options": ["Directly from databases", "From third-party plugins", "From the API hub", "Through manual input"]
-  },
-  {
-    "question": "What kind of components are at the heart of what Frontastic does?",
-    "answer": "React components with a schema",
-    "options": ["Vue components with a database", "Angular components with animations", "React components with a schema", "Svelte components with a design"]
-  },
-  {
-    "question": "What does Frontastic provide for optimized performance delivery to customers?",
-    "answer": "Frontastic components",
-    "options": ["Database optimizations", "Mobile app designs", "Frontastic components", "Graphic design templates"]
-  },
-  {
-    "question": "Where do developers work to extend the API hub in Frontastic?",
-    "answer": "In a Frontastic sandbox provisioned in the Frontastic studio",
-    "options": [
-      "In the Frontastic CLI",
-      "In a separate IDE",
-      "In a Frontastic sandbox provisioned in the Frontastic studio",
-      "In the API hub directly"
-    ]
-  },
-  {
-    "question": "Which tool is used in combination with the Frontastic studio to build, modify, and deploy Frontastic components?",
-    "answer": "Frontastic CLI",
-    "options": ["Frontastic mobile app", "Frontastic database", "Frontastic API hub", "Frontastic CLI"]
-  },
-  {
-    "question": "What does Frontastic serve your websites as, with a focus on performance and mobile-first?",
-    "answer": "PWAs (Progressive Web Apps)",
-    "options": ["Static websites", "Desktop applications", "Mobile native apps", "PWAs (Progressive Web Apps)"]
-  },
-  {
-    "question": "How long ago was the provided documentation on Frontastic updated?",
-    "answer": "About 2 years ago",
-    "options": ["About 6 months ago", "About 1 year ago", "About 2 years ago", "About 3 years ago"]
-  },
-  {
-    "question": "Which of the following best describes Frontastic's approach to commerce sites?",
-    "answer": "Headless",
-    "options": ["Server-based", "Headless", "Database-driven", "Static"]
-  },
-  {
-    "question": "Frontastic allows you to orchestrate data from which type of services?",
-    "answer": "Headless services",
-    "options": ["Database services", "Headless services", "Cloud services", "Design services"]
-  },
-  {
-    "question": "What is one of the main benefits of using Frontastic's API hub?",
-    "answer": "Unified way of connecting and working with your technology stack",
-    "options": [
-      "Mobile app development",
-      "Graphic design capabilities",
-      "Unified way of connecting and working with your technology stack",
-      "Database optimization"
-    ]
+      "A set of starter components",
+      "A unified way of connecting and working with your technology stack",
+      "An interface to manage your projects",
+      "A delivery layer for websites"
+    ],
+    "answer": "A unified way of connecting and working with your technology stack"
   },
   {
     "question": "What are Frontastic components primarily built with?",
-    "answer": "React and a schema",
-    "options": ["Vue and a database", "Angular and animations", "React and a schema", "Svelte and a design"]
-  },
-  {
-    "question": "Which of the following is a feature of the Frontastic studio for business users?",
-    "answer": "Editing and optimizing sites",
-    "options": ["Coding components", "Managing the backend database", "Editing and optimizing sites", "Handling API integrations"]
-  },
-  {
-    "question": "How can users provide feedback on the Frontastic documentation?",
-    "answer": "Using the 'Submit a ticket' button at the top of the page",
     "options": [
-      "Sending an email to the Frontastic team",
-      "Posting on the Frontastic forum",
-      "Using the 'Submit a ticket' button at the top of the page",
-      "Calling the Frontastic helpline"
-    ]
+      "Vue.js",
+      "Angular",
+      "React",
+      "Svelte"
+    ],
+    "answer": "React"
   },
   {
-    "question": "What does Frontastic provide to ensure websites are optimized for performance?",
-    "answer": "Server Side Rendering (SSR)",
-    "options": ["Client Side Rendering", "Database Optimization", "Server Side Rendering (SSR)", "Mobile Optimization"]
+    "question": "Who primarily adds Frontastic components to pages?",
+    "options": [
+      "Developers",
+      "Designers",
+      "Business users",
+      "End-users"
+    ],
+    "answer": "Business users"
   },
   {
-    "question": "Which tool do developers use to modify the Server Side Rendering in Frontastic?",
-    "answer": "Frontastic sandbox",
-    "options": ["Frontastic CLI", "Frontastic studio", "Frontastic mobile app", "Frontastic sandbox"]
+    "question": "What does Frontastic provide as a part of its delivery layer?",
+    "options": [
+      "Database management",
+      "Mobile application development",
+      "Progressive Web App (PWA) delivery",
+      "Graphic design tools"
+    ],
+    "answer": "Progressive Web App (PWA) delivery"
   },
   {
-    "question": "Frontastic's API hub is designed to help with the complex wiring of which type of architectures?",
-    "answer": "Composable architectures",
-    "options": ["Monolithic architectures", "Server-based architectures", "Composable architectures", "Static architectures"]
+    "question": "To extend the API hub or modify the Server Side Rendering, what will a developer work with?",
+    "options": [
+      "Frontastic CLI",
+      "Frontastic studio",
+      "Frontastic sandbox",
+      "Frontastic components"
+    ],
+    "answer": "Frontastic sandbox"
   },
   {
-    "question": "Which of the following is a common commerce use case provided by Frontastic's starter components?",
-    "answer": "Product details pages",
-    "options": ["User authentication", "Mobile navigation", "API integrations", "Product details pages"]
+    "question": "To build, modify, and deploy Frontastic components, what will a developer use in combination with the Frontastic studio?",
+    "options": [
+      "Frontastic CLI",
+      "Frontastic sandbox",
+      "Frontastic API hub",
+      "Frontastic components"
+    ],
+    "answer": "Frontastic CLI"
+  },
+  {
+    "question": "As a business user, where will you primarily work to manage your commerce site?",
+    "options": [
+      "Frontastic CLI",
+      "Frontastic sandbox",
+      "Frontastic studio",
+      "Frontastic API hub"
+    ],
+    "answer": "Frontastic studio"
+  },
+  
+  {
+    "question": "Before setting up projects with Frontastic, what is essential?",
+    "options": [
+      "Deciding on the number of projects and languages",
+      "Choosing a hosting provider",
+      "Deciding on the database to use",
+      "Choosing a design template"
+    ],
+    "answer": "Deciding on the number of projects and languages"
+  },
+  {
+    "question": "How many main decisions are needed before creating your projects with Frontastic?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "What do the Frontastic starter components primarily cover?",
+    "options": [
+      "Advanced design templates",
+      "Database management tools",
+      "Most common commerce cases",
+      "Backend server configurations"
+    ],
+    "answer": "Most common commerce cases"
+  },
+  {
+    "question": "What is a crucial aspect of creating navigation with Frontastic?",
+    "options": [
+      "It should be colorful",
+      "It should be taken lightly",
+      "Decisions around its structure shouldn't be taken lightly",
+      "It should have a minimum of 10 items"
+    ],
+    "answer": "Decisions around its structure shouldn't be taken lightly"
+  },
+  {
+    "question": "Which browser is NOT listed as supported by Frontastic?",
+    "options": [
+      "Opera",
+      "Edge",
+      "Firefox",
+      "Safari"
+    ],
+    "answer": "Opera"
+  },
+  {
+    "question": "Which technology is primarily used for the majority of Frontastic's code?",
+    "options": [
+      "Vue.js",
+      "Angular",
+      "ReactJS",
+      "Svelte"
+    ],
+    "answer": "ReactJS"
+  },
+  {
+    "question": "What is used by Frontastic for all extensions?",
+    "options": [
+      "Python",
+      "Java",
+      "PHP",
+      "Ruby"
+    ],
+    "answer": "PHP"
+  },
+  {
+    "question": "What does a developer need to work on a Frontastic project?",
+    "options": [
+      "A high-speed internet connection",
+      "Access to the Frontastic studio",
+      "A degree in computer science",
+      "A subscription to a design tool"
+    ],
+    "answer": "Access to the Frontastic studio"
+  },
+  {
+    "question": "What is required to be installed locally for a developer working on Frontastic?",
+    "options": [
+      "NPM",
+      "Docker",
+      "Homebrew",
+      "Apache Server"
+    ],
+    "answer": "Homebrew"
+  },
+  {
+    "question": "What does a business user primarily need for Frontastic?",
+    "options": [
+      "Access to the Frontastic studio",
+      "Yarn installed locally",
+      "Access to GitHub customer repository",
+      "Homebrew installed locally"
+    ],
+    "answer": "Access to the Frontastic studio"
+  },
+  {
+    "question": "How many projects would you need if you have one site in a single language?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "What does having one project serving all languages imply?",
+    "options": [
+      "Each language requires separate navigation",
+      "Only translations per territory or language need editing",
+      "Each language has a separate Frontastic studio access",
+      "Each language requires a separate codebase"
+    ],
+    "answer": "Only translations per territory or language need editing"
+  },
+  {
+    "question": "What is a potential drawback of having a separate project for each language?",
+    "options": [
+      "Translations are automated",
+      "Each project needs to be updated individually",
+      "Synchronization is automatic",
+      "Navigation is unified across all projects"
+    ],
+    "answer": "Each project needs to be updated individually"
+  },
+  {
+    "question": "Which of the following data can be synced between different projects?",
+    "options": [
+      "Database configurations",
+      "Server settings",
+      "Frontastic components",
+      "Hosting details"
+    ],
+    "answer": "Frontastic components"
+  },
+  {
+    "question": "What is a limitation of data synchronization in Frontastic?",
+    "options": [
+      "Data can only be synchronized unidirectionally",
+      "Only a subset of data can be synchronized",
+      "Data is synchronized bi-directionally",
+      "Synchronization requires manual intervention"
+    ],
+    "answer": "Data is synchronized bi-directionally"
+  },
+  {
+    "question": "What is essential for setting up a project in Frontastic?",
+    "options": [
+      "A high-resolution logo",
+      "A project ID",
+      "A list of all team members",
+      "A detailed project timeline"
+    ],
+    "answer": "A project ID"
+  },
+  {
+    "question": "What is the maximum length for a project ID in Frontastic?",
+    "options": [
+      "10 characters",
+      "18 characters",
+      "25 characters",
+      "30 characters"
+    ],
+    "answer": "18 characters"
+  },
+  {
+    "question": "Which of the following is NOT required before setting up a project?",
+    "options": [
+      "The default language for the project",
+      "A list of all plugins to be used",
+      "Locales and languages for the project",
+      "A readable name for the project"
+    ],
+    "answer": "A list of all plugins to be used"
+  },
+  {
+    "question": "If you want locales to have entirely different structures or content, what approach should you take?",
+    "options": [
+      "Use a single project with multiple locales",
+      "Use a separate project approach with no syncing",
+      "Use a single project with data syncing",
+      "Use multiple projects with full syncing"
+    ],
+    "answer": "Use a separate project approach with no syncing"
+  },
+  {
+    "question": "What is shared across all data in a Frontastic project?",
+    "options": [
+      "Only the codebase",
+      "Only the design templates",
+      "Users, pages, navigation tree",
+      "Only the plugins and extensions"
+    ],
+    "answer": "Users, pages, navigation tree"
+  },
+  
+  {
+    "question": "What might you want to transfer from your old eCommerce project setup when moving to Frontastic?",
+    "options": [
+      "Product data, code, and designs",
+      "Hosting details and server configurations",
+      "Physical inventory and shipping details",
+      "Employee records and HR data"
+    ],
+    "answer": "Product data, code, and designs"
+  },
+  {
+    "question": "Where does Frontastic store product data?",
+    "options": [
+      "In its own database",
+      "In cloud storage",
+      "It doesn't store any product data",
+      "In encrypted files"
+    ],
+    "answer": "It doesn't store any product data"
+  },
+  {
+    "question": "Which of the following data is NOT stored by Frontastic?",
+    "options": [
+      "User accounts",
+      "Frontastic components",
+      "URL redirects",
+      "User passwords"
+    ],
+    "answer": "User passwords"
+  },
+  {
+    "question": "How can you manage a change in the URL scheme when moving to Frontastic?",
+    "options": [
+      "By manually updating each URL",
+      "By using a third-party tool",
+      "By using redirects in the Frontastic studio",
+      "It's not possible to manage URL changes"
+    ],
+    "answer": "By using redirects in the Frontastic studio"
+  },
+  {
+    "question": "How can you import a large list of redirects in Frontastic?",
+    "options": [
+      "By manually entering each redirect",
+      "By using a CSV for bulk upload",
+      "By connecting to an external database",
+      "By using an API call"
+    ],
+    "answer": "By using a CSV for bulk upload"
+  },
+  {
+    "question": "What does Frontastic allow you to store as page content?",
+    "options": [
+      "Videos and animations",
+      "Simple text and Markdown annotated rich-text",
+      "Interactive applications",
+      "3D models"
+    ],
+    "answer": "Simple text and Markdown annotated rich-text"
+  },
+  {
+    "question": "How can you structure site navigation in Frontastic?",
+    "options": [
+      "By using a mandatory predefined structure",
+      "By hard-coding the navigation structure into JavaScript code",
+      "By using an external navigation tool",
+      "By using a fixed template"
+    ],
+    "answer": "By hard-coding the navigation structure into JavaScript code"
+  },
+  {
+    "question": "If you developed your previous project in ReactJS, what can you potentially do with those components in Frontastic?",
+    "options": [
+      "Discard them as they are incompatible",
+      "Re-use them within Frontastic",
+      "Convert them to Vue.js components",
+      "Use them only for backend logic"
+    ],
+    "answer": "Re-use them within Frontastic"
+  },
+  {
+    "question": "How can you include CSS for UI components brought into a Frontastic project?",
+    "options": [
+      "By manually rewriting the CSS",
+      "By using an external CSS tool",
+      "By adding it into the library",
+      "By using a CSS-to-JavaScript converter"
+    ],
+    "answer": "By adding it into the library"
+  },
+  {
+    "question": "What is recommended by Frontastic regarding CSS?",
+    "options": [
+      "Using plain CSS only",
+      "Using SASS and putting all CSS code into src/scss",
+      "Avoiding any CSS frameworks",
+      "Using inline CSS for all components"
+    ],
+    "answer": "Using SASS and putting all CSS code into src/scss"
+  },
+  {
+    "question": "How many users with the Admin role are created when your project is set up with Frontastic?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "How long is the registration link sent by Frontastic valid for?",
+    "options": [
+      "24 hours",
+      "48 hours",
+      "72 hours",
+      "1 week"
+    ],
+    "answer": "48 hours"
+  },
+  {
+    "question": "Where can the initial Admin user access the Team management?",
+    "options": [
+      "From the project settings",
+      "From the dashboard of the studio",
+      "From the Frontastic homepage",
+      "From the user profile page"
+    ],
+    "answer": "From the dashboard of the studio"
+  },
+  {
+    "question": "What is the domain structure to access the Frontastic studio for a project?",
+    "options": [
+      "<projectname>.frontastic.com",
+      "frontastic.io/<projectname>",
+      "studio.frontastic.io/<projectname>",
+      "<customerid>.frontastic.io"
+    ],
+    "answer": "<customerid>.frontastic.io"
+  },
+  {
+    "question": "Which email field characteristic should users be aware of when logging into Frontastic?",
+    "options": [
+      "It's case sensitive",
+      "It requires special characters",
+      "It doesn't accept numbers",
+      "It's limited to 15 characters"
+    ],
+    "answer": "It's case sensitive"
+  },
+  {
+    "question": "What is the first screen you see once you log in to Frontastic?",
+    "options": [
+      "The project settings",
+      "The user profile page",
+      "The dashboard",
+      "The team management page"
+    ],
+    "answer": "The dashboard"
+  },
+  {
+    "question": "What does the top-left dropdown in the Frontastic studio indicate?",
+    "options": [
+      "The current user role",
+      "The current project",
+      "The current environment",
+      "The current version of Frontastic"
+    ],
+    "answer": "The current project"
+  },
+  {
+    "question": "What does the dropdown on the top right of the Frontastic studio represent?",
+    "options": [
+      "User settings",
+      "Project settings",
+      "Environment selector",
+      "Notification settings"
+    ],
+    "answer": "Environment selector"
+  },
+  {
+    "question": "What happens if you're in the production environment and publish your changes?",
+    "options": [
+      "They're saved as drafts",
+      "They go live to customers",
+      "They're sent for review",
+      "They're archived for future use"
+    ],
+    "answer": "They go live to customers"
+  },
+  {
+    "question": "How can you return to the dashboard from any area in the Frontastic studio?",
+    "options": [
+      "By refreshing the page",
+      "By clicking the 'Home' button",
+      "By clicking the Frontastic icon",
+      "By using the 'Back' button on the browser"
+    ],
+    "answer": "By clicking the Frontastic icon"
+  },
+  {
+    "question": "Where can you manage the team members of your project in the Frontastic studio?",
+    "options": [
+      "In the 'Settings' tab",
+      "In the 'Team' section on the dashboard",
+      "In the 'Users' tab",
+      "In the 'Project' tab"
+    ],
+    "answer": "In the 'Team' section on the dashboard"
+  },
+  {
+    "question": "How many roles can you assign to members of your project in Frontastic?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "Which role has access to all areas in the project?",
+    "options": [
+      "Admin",
+      "Lead Editor",
+      "Editor",
+      "Viewer"
+    ],
+    "answer": "Admin"
+  },
+  {
+    "question": "Which role can access the 'Site builder', 'Media', 'Facets', and 'Redirects' areas?",
+    "options": [
+      "Admin",
+      "Lead Editor",
+      "Editor",
+      "Both Lead Editor and Editor"
+    ],
+    "answer": "Both Lead Editor and Editor"
+  },
+  {
+    "question": "Which role(s) can manage environment settings by promoting and demoting?",
+    "options": [
+      "Admin",
+      "Lead Editor",
+      "Editor",
+      "Both Admin and Lead Editor"
+    ],
+    "answer": "Admin"
+  },
+  {
+    "question": "How long is the activation link in the invitation email valid for?",
+    "options": [
+      "24 hours",
+      "48 hours",
+      "72 hours",
+      "1 week"
+    ],
+    "answer": "48 hours"
+  },
+  {
+    "question": "Who can change the roles of other users in the Frontastic studio?",
+    "options": [
+      "Admin",
+      "Lead Editor",
+      "Editor",
+      "All roles"
+    ],
+    "answer": "Admin"
+  },
+  {
+    "question": "How can you invite a new team member to your project?",
+    "options": [
+      "By sending them a direct email",
+      "By adding them in the 'Users' tab",
+      "By clicking the 'Add user' button",
+      "By requesting Frontastic support"
+    ],
+    "answer": "By clicking the 'Add user' button"
+  },
+  {
+    "question": "How can you delete multiple users at once?",
+    "options": [
+      "By selecting their names and clicking 'Delete'",
+      "By sending a request to Frontastic support",
+      "By selecting the tickbox next to their names and enabling the 'Remove user' button",
+      "It's not possible to delete multiple users at once"
+    ],
+    "answer": "By selecting the tickbox next to their names and enabling the 'Remove user' button"
+  },
+  {
+    "question": "After confirming the deletion of a user, what happens?",
+    "options": [
+      "The user's role is changed to 'Viewer'",
+      "The user is archived and can be restored later",
+      "The user will no longer be able to use the Frontastic studio for your project",
+      "The user is notified and given a grace period to save their work"
+    ],
+    "answer": "The user will no longer be able to use the Frontastic studio for your project"
+  },
+  {
+    "question": "What should you do if you encounter issues during the setup steps?",
+    "options": [
+      "Contact Frontastic support",
+      "Restart your computer",
+      "Reply to the email from the session host",
+      "Ignore the issue"
+    ],
+    "answer": "Reply to the email from the session host"
+  },
+  {
+    "question": "How many invitation emails should you have received for the session?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "After clicking the link from the Frontastic studio email, what should you do next?",
+    "options": [
+      "Download the Frontastic app",
+      "Set up a password",
+      "Verify your email address",
+      "Choose a subscription plan"
+    ],
+    "answer": "Set up a password"
+  },
+  {
+    "question": "How long might it take for a sandbox to be ready for use the first time?",
+    "options": [
+      "Instantly",
+      "Up to 5 minutes",
+      "Up to 10 minutes",
+      "More than 30 minutes"
+    ],
+    "answer": "Up to 10 minutes"
+  },
+  {
+    "question": "What should macOS or Linux users install to set up the Frontastic CLI?",
+    "options": [
+      "Node.js",
+      "Docker",
+      "Homebrew",
+      "Visual Studio Code"
+    ],
+    "answer": "Homebrew"
+  },
+  {
+    "question": "Where can you find the password for your sandbox?",
+    "options": [
+      "In the Frontastic studio",
+      "In the invitation email",
+      "By contacting Frontastic support",
+      "In the GitHub repository"
+    ],
+    "answer": "In the Frontastic studio"
+  },
+  {
+    "question": "What command should you run to SSH into the sandbox?",
+    "options": [
+      "ssh frontastic",
+      "frontastic connect",
+      "frontastic ssh",
+      "ssh sandbox"
+    ],
+    "answer": "frontastic ssh"
+  },
+  {
+    "question": "When setting up the Frontastic CLI, what should you select for compiling changes to the frontend?",
+    "options": [
+      "Compile changes locally",
+      "Sync changes to an external server",
+      "Copy changes to the Frontastic sandbox where webpack runs",
+      "Ignore frontend changes"
+    ],
+    "answer": "Copy changes to the Frontastic sandbox where webpack runs"
+  },
+  {
+    "question": "What is the purpose of running 'frontastic run'?",
+    "options": [
+      "To start a local server",
+      "To deploy changes to production",
+      "To initialize the Frontastic CLI",
+      "To sync and compile changes with the Frontastic sandbox"
+    ],
+    "answer": "To sync and compile changes with the Frontastic sandbox"
+  },
+  {
+    "question": "If the dashboard on your Frontastic CLI has minimal errors, what does it indicate?",
+    "options": [
+      "You need to restart the process",
+      "You're not ready for the session",
+      "You're ready for the session",
+      "You need to contact Frontastic support"
+    ],
+    "answer": "You're ready for the session"
+  },
+   {
+    "question": "How many main parts does Frontastic consist of?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "What are Frontastic components primarily built with?",
+    "options": [
+      "Vue.js",
+      "Angular",
+      "React",
+      "Svelte"
+    ],
+    "answer": "React"
+  },
+  {
+    "question": "Which tool is used by Frontastic to provide a common CLI experience?",
+    "options": [
+      "Yarn",
+      "Ant",
+      "webpack",
+      "Babel"
+    ],
+    "answer": "Ant"
+  },
+  {
+    "question": "What is the primary purpose of Redux in the Frontastic stack?",
+    "options": [
+      "Compiling JavaScript",
+      "Managing state in the frontend",
+      "Bundling and chunking applications",
+      "Provisioning server environments"
+    ],
+    "answer": "Managing state in the frontend"
+  },
+  {
+    "question": "Which PHP framework is used by Frontastic?",
+    "options": [
+      "Laravel",
+      "CodeIgniter",
+      "Zend",
+      "Symfony"
+    ],
+    "answer": "Symfony"
+  },
+  {
+    "question": "What is the role of webpack in the Frontastic stack?",
+    "options": [
+      "Managing state in the frontend",
+      "Translating JavaScript files",
+      "Packaging JavaScript applications and handling bundling",
+      "Providing a common CLI experience"
+    ],
+    "answer": "Packaging JavaScript applications and handling bundling"
+  },
+  {
+    "question": "Which tool is used by Frontastic as a JavaScript compiler?",
+    "options": [
+      "Ant",
+      "Redux",
+      "Babel",
+      "Yarn"
+    ],
+    "answer": "Babel"
+  },
+  {
+    "question": "Which web server is used in the backend that serves frontend delivery in Frontastic?",
+    "options": [
+      "Apache",
+      "Tomcat",
+      "Nginx",
+      "IIS"
+    ],
+    "answer": "Nginx"
+  },
+  {
+    "question": "Which database is used by Frontastic for data storage?",
+    "options": [
+      "PostgreSQL",
+      "MongoDB",
+      "SQLite",
+      "MySQL"
+    ],
+    "answer": "MySQL"
+  },
+  {
+    "question": "Frontastic components are ready-to-use in which tool, where you can build your entire site without code?",
+    "options": [
+      "Frontastic CLI",
+      "Frontastic studio",
+      "Frontastic sandbox",
+      "Frontastic dashboard"
+    ],
+    "answer": "Frontastic studio"
+  },
+   {
+    "question": "Which part of Frontastic is represented as light blue in the architecture image?",
+    "options": [
+      "API hub",
+      "Developer tooling",
+      "Frontastic studio",
+      "Frontend delivery"
+    ],
+    "answer": "Developer tooling"
+  },
+  {
+    "question": "Which part of Frontastic is responsible for fetching data from the API provider for the Frontastic component?",
+    "options": [
+      "API hub",
+      "Developer tooling",
+      "Frontastic studio",
+      "Frontend delivery"
+    ],
+    "answer": "API hub"
+  },
+  {
+    "question": "Where do business users mainly work to build pages and review changes?",
+    "options": [
+      "API hub",
+      "Developer tooling",
+      "Frontastic studio",
+      "Frontend delivery"
+    ],
+    "answer": "Frontastic studio"
+  },
+  {
+    "question": "What does Frontastic use to serve a Progressive Web Application (PWA)?",
+    "options": [
+      "HTML 5, CSS, and JavaScript",
+      "Vue.js and CSS",
+      "Angular and HTML 5",
+      "Svelte and CSS"
+    ],
+    "answer": "HTML 5, CSS, and JavaScript"
+  },
+  {
+    "question": "Where can you implement your own source code for visual experience in Frontastic?",
+    "options": [
+      "Frontastic CLI",
+      "Frontastic studio",
+      "Frontastic sandbox",
+      "Your own GitHub repository"
+    ],
+    "answer": "Your own GitHub repository"
+  },
+  {
+    "question": "What is the role of the replicator in the Frontastic architecture?",
+    "options": [
+      "To build and deploy the application",
+      "To check for changes in the Frontastic studio and update the API hub and frontend delivery",
+      "To manage the state of the application",
+      "To handle authentication and security"
+    ],
+    "answer": "To check for changes in the Frontastic studio and update the API hub and frontend delivery"
+  },
+  {
+    "question": "Where is the data for products, content, accounts, etc., stored in the Frontastic architecture?",
+    "options": [
+      "In the Frontastic studio",
+      "In the Frontastic database",
+      "Within your headless system (e.g., commercetools, Contentful)",
+      "In the Frontastic cloud platform"
+    ],
+    "answer": "Within your headless system (e.g., commercetools, Contentful)"
+  },
+  {
+    "question": "What does Frontastic provide through the cloud platform?",
+    "options": [
+      "Data storage and backup",
+      "Deployment and Continuous Integration",
+      "User authentication and management",
+      "API abstraction and management"
+    ],
+    "answer": "Deployment and Continuous Integration"
+  },
+  {
+    "question": "Which service is recommended by Frontastic for hosting microservices?",
+    "options": [
+      "AWS Lambda",
+      "Google Cloud Functions",
+      "Azure Functions",
+      "Heroku"
+    ],
+    "answer": "Heroku"
+  },
+  {
+    "question": "Frontastic components are built by developers using which tool?",
+    "options": [
+      "API hub",
+      "Developer tooling",
+      "Frontastic studio",
+      "Frontend delivery"
+    ],
+    "answer": "Developer tooling"
+  },
+  {
+    "question": "Where can you find up-to-date information if you're having issues with Frontastic systems?",
+    "options": [
+      "Frontastic support page",
+      "Frontastic homepage",
+      "Frontastic status page",
+      "Frontastic documentation"
+    ],
+    "answer": "Frontastic status page"
+  },
+  {
+    "question": "Which system is known in code as 'Catwalk'?",
+    "options": [
+      "Frontastic studio",
+      "Frontastic sandbox",
+      "API hub",
+      "Page synchronization for the preview"
+    ],
+    "answer": "API hub"
+  },
+  {
+    "question": "What is another name for 'Page synchronization for the preview'?",
+    "options": [
+      "Replicator",
+      "Synchronizer",
+      "Updater",
+      "Refresher"
+    ],
+    "answer": "Replicator"
+  },
+  {
+    "question": "Which system is NOT listed in the provided content?",
+    "options": [
+      "Frontastic cloud platform",
+      "Frontastic studio",
+      "Frontastic sandbox",
+      "API hub"
+    ],
+    "answer": "Frontastic cloud platform"
+  },
+  {
+    "question": "Where can you check the status of the commercetools platform?",
+    "options": [
+      "status.frontastic.com",
+      "status.commercetools.com",
+      "commercetools.status.com",
+      "platform.commercetools.com"
+    ],
+    "answer": "status.commercetools.com"
+  },
+  {
+    "question": "How long ago was the commercetools Platform Status Page updated?",
+    "options": [
+      "1 month ago",
+      "2 months ago",
+      "3 months ago",
+      "4 months ago"
+    ],
+    "answer": "4 months ago"
+  },
+  {
+    "question": "Which system is responsible for building and deploying the application?",
+    "options": [
+      "Frontastic studio",
+      "Frontastic sandbox",
+      "API hub",
+      "CI build server"
+    ],
+    "answer": "CI build server"
+  },
+  {
+    "question": "Which system provides a development environment for developers?",
+    "options": [
+      "Frontastic studio",
+      "Frontastic sandbox",
+      "API hub",
+      "CI build server"
+    ],
+    "answer": "Frontastic sandbox"
+  },
+  {
+    "question": "Which system is primarily used by business users to build and manage pages?",
+    "options": [
+      "Frontastic studio",
+      "Frontastic sandbox",
+      "API hub",
+      "CI build server"
+    ],
+    "answer": "Frontastic studio"
+  },
+  {
+    "question": "Which system is responsible for fetching data for Frontastic components?",
+    "options": [
+      "Frontastic studio",
+      "Frontastic sandbox",
+      "API hub",
+      "CI build server"
+    ],
+    "answer": "API hub"
   }
 ]
