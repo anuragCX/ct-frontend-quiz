@@ -1,0 +1,772 @@
+[
+  {
+    "question": "How many projects do you need if you have one site in one language?",
+    "options": [
+      "Multiple projects",
+      "1 project",
+      "Depends on the number of pages",
+      "Depends on the number of components"
+    ],
+    "answer": "1 project"
+  },
+  {
+    "question": "Which of the following can be synced between different projects?",
+    "options": [
+      "Users",
+      "Page templates",
+      "Frontastic components",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "What is the consequence of bi-directional data synchronization?",
+    "options": [
+      "Data is only synced from one project to another",
+      "Unique components added to one project will be synced back to the other",
+      "Data is only synced when manually triggered",
+      "Only users are synced bi-directionally"
+    ],
+    "answer": "Unique components added to one project will be synced back to the other"
+  },
+  {
+    "question": "What is the requirement for a project ID?",
+    "options": [
+      "Must be between 3 and 18 characters",
+      "Can only contain uppercase letters",
+      "Must start with a number",
+      "Has no specific requirements"
+    ],
+    "answer": "Must be between 3 and 18 characters"
+  },
+  {
+    "question": "If you want your locales to have entirely different structures, what approach should you take?",
+    "options": [
+      "Use the syncing option",
+      "Add a new locale to the existing project",
+      "Have a separate project approach with no syncing",
+      "Sync only the users"
+    ],
+    "answer": "Have a separate project approach with no syncing"
+  },
+  {
+    "question": "What type of data might you want to migrate when moving to Frontastic from an old eCommerce project setup?",
+    "options": [
+      "Product data",
+      "User passwords",
+      "Frontastic components",
+      "Frontastic studio settings"
+    ],
+    "answer": "Product data"
+  },
+  {
+    "question": "Why might migrating existing carts and wishlists be ignored?",
+    "options": [
+      "It's not supported by Frontastic",
+      "It's too much effort",
+      "Customers don't use them",
+      "They are automatically migrated"
+    ],
+    "answer": "It's too much effort"
+  },
+  {
+    "question": "What is NOT possible to migrate due to security reasons?",
+    "options": [
+      "User sessions",
+      "Product data",
+      "URLs",
+      "Content"
+    ],
+    "answer": "User sessions"
+  },
+  {
+    "question": "How can you manage a change in the URL scheme when moving to Frontastic?",
+    "options": [
+      "Rebuild the URL paths in the site builder",
+      "Delete old URLs",
+      "Ignore the change",
+      "Ask customers to update their bookmarks"
+    ],
+    "answer": "Rebuild the URL paths in the site builder"
+  },
+  {
+    "question": "If you developed your previous project in ReactJS, what is the general precondition for reusing those components within Frontastic?",
+    "options": [
+      "Components should be hardbound to an application structure",
+      "Components should have their logic well encapsulated",
+      "Components should be developed using Vue.js",
+      "Components should be stored in the Frontastic studio"
+    ],
+    "answer": "Components should have their logic well encapsulated"
+  },
+  {
+    "question": "Who receives the initial email to register with Frontastic?",
+    "options": [
+      "All team members",
+      "The developer",
+      "The user with the Admin role",
+      "The project manager"
+    ],
+    "answer": "The user with the Admin role"
+  },
+  {
+    "question": "How long is the registration link valid for?",
+    "options": [
+      "24 hours",
+      "48 hours",
+      "72 hours",
+      "1 week"
+    ],
+    "answer": "48 hours"
+  },
+  {
+    "question": "Where can the initial Admin user add more team members?",
+    "options": [
+      "In the project settings",
+      "In the Frontastic dashboard",
+      "In the Team management section",
+      "Via email"
+    ],
+    "answer": "In the Team management section"
+  },
+  {
+    "question": "What should you do if you forget your password?",
+    "options": [
+      "Contact the Admin user",
+      "Recreate a new account",
+      "Click the 'Forgot password?' link",
+      "Wait for 24 hours"
+    ],
+    "answer": "Click the 'Forgot password?' link"
+  },
+  {
+    "question": "What does the dropdown on the top right of the Frontastic studio represent?",
+    "options": [
+      "Project selector",
+      "User profile",
+      "Environment selector",
+      "Language selector"
+    ],
+    "answer": "Environment selector"
+  },
+  {
+    "question": "Which section in the Frontastic studio allows you to manage team members?",
+    "options": [
+      "Project Settings",
+      "User Management",
+      "Team",
+      "Role Settings"
+    ],
+    "answer": "Team"
+  },
+  {
+    "question": "How many roles can you assign to members of your project in the Frontastic studio?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "Which role has access to all areas in the project?",
+    "options": [
+      "Admin",
+      "Lead Editor",
+      "Editor",
+      "Viewer"
+    ],
+    "answer": "Admin"
+  },
+  {
+    "question": "How long is the activation link in the invitation email valid for?",
+    "options": [
+      "24 hours",
+      "48 hours",
+      "72 hours",
+      "1 week"
+    ],
+    "answer": "48 hours"
+  },
+  {
+    "question": "Who can change the roles of other users?",
+    "options": [
+      "Admin",
+      "Lead Editor",
+      "Editor",
+      "Any team member"
+    ],
+    "answer": "Admin"
+  },
+  {
+    "question": "What should you do if you encounter issues during the setup steps for the hackathon or onboarding session?",
+    "options": [
+      "Ignore the issues",
+      "Restart your computer",
+      "Reply to the email from the session host",
+      "Delete and recreate your account"
+    ],
+    "answer": "Reply to the email from the session host"
+  },
+  {
+    "question": "How long might it take for a Frontastic sandbox to be ready for use the first time?",
+    "options": [
+      "Instantly",
+      "Up to 5 minutes",
+      "Up to 10 minutes",
+      "More than 30 minutes"
+    ],
+    "answer": "Up to 10 minutes"
+  },
+  {
+    "question": "Which tool is recommended for macOS or Linux users to install the Frontastic CLI?",
+    "options": [
+      "npm",
+      "pip",
+      "Homebrew",
+      "Chocolatey"
+    ],
+    "answer": "Homebrew"
+  },
+  {
+    "question": "What should you do after cloning the repository from GitHub?",
+    "options": [
+      "Run the application immediately",
+      "Delete unnecessary files",
+      "Set up the Frontastic CLI",
+      "Send an email to the session host"
+    ],
+    "answer": "Set up the Frontastic CLI"
+  },
+  {
+    "question": "How can you SSH into the sandbox?",
+    "options": [
+      "Using the 'frontastic connect' command",
+      "Using the 'frontastic ssh' command",
+      "Directly from the Frontastic studio",
+      "Using the 'ssh frontastic' command"
+    ],
+    "answer": "Using the 'frontastic ssh' command"
+  },
+  {
+    "question": "How many main parts does Frontastic consist of?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "What are Frontastic components primarily built with?",
+    "options": [
+      "Vue.js",
+      "Angular",
+      "ReactJS",
+      "jQuery"
+    ],
+    "answer": "ReactJS"
+  },
+  {
+    "question": "Which tool does Frontastic use for managing the state inside the frontend?",
+    "options": [
+      "VueX",
+      "Context API",
+      "MobX",
+      "Redux"
+    ],
+    "answer": "Redux"
+  },
+  {
+    "question": "What is the primary PHP framework used by Frontastic?",
+    "options": [
+      "Laravel",
+      "Zend",
+      "Symfony",
+      "CodeIgniter"
+    ],
+    "answer": "Symfony"
+  },
+  {
+    "question": "Which tool does Frontastic use for packaging JavaScript applications?",
+    "options": [
+      "Parcel",
+      "Rollup",
+      "Gulp",
+      "webpack"
+    ],
+    "answer": "webpack"
+  },
+  {
+    "question": "Which of the following is NOT a main part of Frontastic?",
+    "options": [
+      "API hub",
+      "Frontastic studio",
+      "Frontastic components",
+      "Frontend delivery"
+    ],
+    "answer": "Frontastic components"
+  },
+  {
+    "question": "How does Frontastic handle data from APIs?",
+    "options": [
+      "Stores the data permanently",
+      "Only displays the data without storing",
+      "Caches the data for future use",
+      "Creates a backup of the data"
+    ],
+    "answer": "Only displays the data without storing"
+  },
+  {
+    "question": "What is the role of the Replicator in Frontastic's architecture?",
+    "options": [
+      "It handles frontend delivery",
+      "It checks for changes in the Frontastic studio and updates the API hub",
+      "It manages the deployment and Continuous Integration",
+      "It builds Frontastic components"
+    ],
+    "answer": "It checks for changes in the Frontastic studio and updates the API hub"
+  },
+  {
+    "question": "Which technology is primarily used for the frontend in Frontastic?",
+    "options": [
+      "Vue.js",
+      "Angular",
+      "ReactJS",
+      "jQuery"
+    ],
+    "answer": "ReactJS"
+  },
+  {
+    "question": "What happens on the very first request from a website user to Frontastic?",
+    "options": [
+      "Only JSON data is returned",
+      "A slim HTML template is returned to load the PWA code",
+      "The browser is redirected to another page",
+      "A full HTML page with all assets is returned"
+    ],
+    "answer": "A slim HTML template is returned to load the PWA code"
+  },
+  {
+    "question": "Where should you check if you're experiencing issues with Frontastic systems?",
+    "options": [
+      "Frontastic help center",
+      "Frontastic status page",
+      "Frontastic studio settings",
+      "Frontastic API documentation"
+    ],
+    "answer": "Frontastic status page"
+  },
+  {
+    "question": "Which of the following is NOT a system you can check the status of on the Frontastic status page?",
+    "options": [
+      "Frontastic studio",
+      "Frontastic sandbox",
+      "Frontastic user management",
+      "CI build server"
+    ],
+    "answer": "Frontastic user management"
+  },
+  {
+    "question": "Why does Frontastic offer server-side rendering (SSR)?",
+    "options": [
+      "To execute JavaScript code in a browser on Frontastic's server for the initial page view",
+      "To store user data on the server",
+      "To provide a backup for client-side rendering",
+      "To reduce the size of JavaScript files"
+    ],
+    "answer": "To execute JavaScript code in a browser on Frontastic's server for the initial page view"
+  },
+  {
+    "question": "Which of the following is NOT a reason Frontastic uses SSR?",
+    "options": [
+      "For web crawlers",
+      "To improve security",
+      "For performance enhancement",
+      "To ensure code consistency between SSR and client rendering"
+    ],
+    "answer": "To improve security"
+  },
+  {
+    "question": "What happens if the SSR process fails?",
+    "options": [
+      "The page won't load for the user",
+      "An error message is displayed",
+      "The application is provided with an HTTP status code 503 and React handles the rendering",
+      "The server retries the SSR process"
+    ],
+    "answer": "The application is provided with an HTTP status code 503 and React handles the rendering"
+  },
+  {
+    "question": "Which tool is used in the backend to render the HTML for SSR?",
+    "options": [
+      "'react-dom/client'",
+      "'react-dom/server'",
+      "'react-ssr/server'",
+      "'react-html/renderer'"
+    ],
+    "answer": "'react-dom/server'"
+  },
+  {
+    "question": "How does Frontastic handle translations in SSR?",
+    "options": [
+      "Translations are not supported in SSR",
+      "It uses a third-party translation service",
+      "It sends the context, including the current locale, to the SSR",
+      "Translations are hardcoded in the server"
+    ],
+    "answer": "It sends the context, including the current locale, to the SSR"
+  },
+   {
+    "question": "What can you do within the Frontastic sandbox?",
+    "options": [
+      "Edit system configuration files",
+      "Clear caches and view server logs",
+      "Change the Frontastic studio interface",
+      "Access the Frontastic production server"
+    ],
+    "answer": "Clear caches and view server logs"
+  },
+  {
+    "question": "How can you access the Frontastic sandbox?",
+    "options": [
+      "Using the command 'ssh user@<your-machine-host>'",
+      "Directly from the Frontastic studio",
+      "Using the command 'ssh vagrant@<your-machine-host>'",
+      "By sending an email request to Frontastic support"
+    ],
+    "answer": "Using the command 'ssh vagrant@<your-machine-host>'"
+  },
+  {
+    "question": "Where are all Frontastic application logs stored?",
+    "options": [
+      "/var/logs/frontastic",
+      "/var/log",
+      "/var/log/frontastic",
+      "/logs/frontastic"
+    ],
+    "answer": "/var/log/frontastic"
+  },
+  {
+    "question": "Which tool does Frontastic use to manage long-running background processes?",
+    "options": [
+      "Supervisor",
+      "Kubernetes",
+      "Docker",
+      "Jenkins"
+    ],
+    "answer": "Supervisor"
+  },
+  {
+    "question": "How can you access the MySQL database in the Frontastic sandbox?",
+    "options": [
+      "Using the command 'mysql -uadmin -p'",
+      "Directly from the Frontastic studio",
+      "Using the command 'mysql -uroot -p' with the password 'root'",
+      "MySQL access is not provided"
+    ],
+    "answer": "Using the command 'mysql -uroot -p' with the password 'root'"
+  },
+  {
+    "question": "What is the purpose of the <customer> folder in the GitHub customer repository?",
+    "options": [
+      "It contains the platform code for Frontastic.",
+      "It is dedicated to all your projects and can be used to share code between projects.",
+      "It contains the code for a specific project.",
+      "It stores configuration files for the Frontastic platform."
+    ],
+    "answer": "It is dedicated to all your projects and can be used to share code between projects."
+  },
+  {
+    "question": "Where should all your project-specific code reside?",
+    "options": [
+      "In the paas folder",
+      "In the <customer> folder",
+      "In the <customer>_<project> folder",
+      "In the files folder"
+    ],
+    "answer": "In the <customer>_<project> folder"
+  },
+  {
+    "question": "Which directory contains the source code of your Frontastic components?",
+    "options": [
+      "src/js/",
+      "src/tastic/",
+      "src/js/tastic/",
+      "src/php/"
+    ],
+    "answer": "src/js/tastic/"
+  },
+  {
+    "question": "What is the purpose of the paas folder?",
+    "options": [
+      "To store project-specific assets and templates.",
+      "To contain the platform code for Frontastic.",
+      "To store shared code between multiple projects.",
+      "To contain configuration files for each project."
+    ],
+    "answer": "To contain the platform code for Frontastic."
+  },
+  {
+    "question": "Where can you find the SCSS code in the project structure?",
+    "options": [
+      "src/scss/",
+      "src/js/",
+      "src/layout/",
+      "src/php/"
+    ],
+    "answer": "src/scss/"
+  },
+  {
+    "question": "Where is the recommended location to place all shared code?",
+    "options": [
+      "<customer>/<customer>/src",
+      "<customer>/<project>/src",
+      "<project>/src",
+      "shared/src"
+    ],
+    "answer": "<customer>/<customer>/src"
+  },
+  {
+    "question": "Which file in the shared code project should you edit to add an alias for easier imports?",
+    "options": [
+      "webpack.js",
+      "tsconfig.json",
+      "package.json",
+      "composer.json"
+    ],
+    "answer": "tsconfig.json"
+  },
+  {
+    "question": "How can you avoid lengthy import paths when using shared code?",
+    "options": [
+      "By using global variables",
+      "By copying the code to each project",
+      "By extending the webpack.js config and the tsconfig.json",
+      "By placing all code in the root directory"
+    ],
+    "answer": "By extending the webpack.js config and the tsconfig.json"
+  },
+  {
+    "question": "What is the purpose of the 'workspaces' package in the package.json file?",
+    "options": [
+      "To define the structure of the Frontastic studio",
+      "To specify the dependencies for each project",
+      "To define which folders should be treated as separate packages",
+      "To specify the version of Frontastic being used"
+    ],
+    "answer": "To define which folders should be treated as separate packages"
+  },
+  {
+    "question": "If you have a shared component named 'awesometastic', how can you import it with the recommended setup?",
+    "options": [
+      "import MyAwesomeTastic from \"../../../../../../../awesomecustomer/src/js/tastic/awesometastic.jsx\"",
+      "import MyAwesomeTastic from \"@srcDS/tastic/awesometastic\"",
+      "import MyAwesomeTastic from \"shared/tastic/awesometastic\"",
+      "import MyAwesomeTastic from \"../shared/tastic/awesometastic\""
+    ],
+    "answer": "import MyAwesomeTastic from \"@srcDS/tastic/awesometastic\""
+  },
+  {
+    "question": "Which branch does Frontastic automatically build pushes to?",
+    "options": [
+      "development",
+      "staging",
+      "feature",
+      "master"
+    ],
+    "answer": "master"
+  },
+  {
+    "question": "What development flow does Frontastic suggest?",
+    "options": [
+      "Feature-based development flow",
+      "Branch-based development flow",
+      "Master-based development flow",
+      "Staging-based development flow"
+    ],
+    "answer": "Master-based development flow"
+  },
+  {
+    "question": "Which directory in Frontastic projects should contain the main code entry points & assets?",
+    "options": [
+      "src/",
+      "test/",
+      "config/",
+      "public/"
+    ],
+    "answer": "public/"
+  },
+  {
+    "question": "Which tool is used to install project specific JavaScript code dependencies in Frontastic?",
+    "options": [
+      "npm",
+      "Composer",
+      "Pip",
+      "Yarn"
+    ],
+    "answer": "Yarn"
+  },
+  {
+    "question": "Which PSR (PHP Standardization Request) is NOT mentioned in the provided content?",
+    "options": [
+      "PSR-1: Basic coding standard",
+      "PSR-3: Logger interface",
+      "PSR-2: Coding style guide",
+      "PSR-4: Autoloader"
+    ],
+    "answer": "PSR-3: Logger interface"
+  },
+  {
+    "question": "Where can you find most of the configuration for Frontastic projects?",
+    "options": [
+      "In the frontend",
+      "In the database",
+      "In the backend",
+      "In external APIs"
+    ],
+    "answer": "In the backend"
+  },
+  {
+    "question": "Which file under the 'config/' directory is used to set configurations on a per-project basis?",
+    "options": [
+      "config.yml",
+      "base.yml",
+      "project.yml",
+      "setup.yml"
+    ],
+    "answer": "project.yml"
+  },
+  {
+    "question": "How can you overwrite configurations for the development environment?",
+    "options": [
+      "By editing the project.yml file",
+      "By creating a project.yml.dev file",
+      "By creating a dev.config.yml file",
+      "By editing the base.yml file"
+    ],
+    "answer": "By creating a project.yml.dev file"
+  },
+  {
+    "question": "Why is it recommended to encrypt configurations for production access tokens and configurations of connected APIs?",
+    "options": [
+      "Because they are stored in a public repository",
+      "To reduce the file size",
+      "Because they are stored in a private repository and accessible to everyone with access",
+      "To improve performance"
+    ],
+    "answer": "Because they are stored in a private repository and accessible to everyone with access"
+  },
+  {
+    "question": "Where should you add your Content Security Policy (CSP) configuration?",
+    "options": [
+      "In the CSP.yml file",
+      "In the base.yml file",
+      "In the project.yml file",
+      "In the security.yml file"
+    ],
+    "answer": "In the project.yml file"
+  },
+   {
+    "question": "Where can you find the 'project.yml' file in a Frontastic project?",
+    "options": [
+      "<customer>_<project>/config/",
+      "<customer>/config/",
+      "config/<project>/",
+      "project/config/"
+    ],
+    "answer": "<customer>_<project>/config/"
+  },
+  {
+    "question": "Which of the following should NOT be changed as it might cause your application to break?",
+    "options": [
+      "projectId",
+      "languages",
+      "data",
+      "defaultLanguage"
+    ],
+    "answer": "projectId"
+  },
+  {
+    "question": "Where can you configure your API providers in the 'project.yml'?",
+    "options": [
+      "In the 'configuration' section",
+      "In the 'data' section",
+      "In the 'languages' section",
+      "In the 'endpoints' section"
+    ],
+    "answer": "In the 'configuration' section"
+  },
+  {
+    "question": "How can you access the information within the 'project.yml' in the frontend?",
+    "options": [
+      "Using the 'project' object",
+      "Using 'context' and 'tastify'",
+      "Directly reading the 'project.yml' file",
+      "Using the 'configuration' object"
+    ],
+    "answer": "Using 'context' and 'tastify'"
+  },
+  {
+    "question": "If you need to store project-specific configuration that doesn't need to be changed by a non-technical user, where should you add it?",
+    "options": [
+      "In the 'configuration' key",
+      "In a custom sub-key to the 'data' key",
+      "In the 'languages' key",
+      "In the 'endpoints' key"
+    ],
+    "answer": "In a custom sub-key to the 'data' key"
+  },
+  {
+    "question": "What can you adapt in the Frontastic studio under the 'Project' section?",
+    "options": [
+      "Backend configurations",
+      "Frontend designs",
+      "Project settings",
+      "API endpoints"
+    ],
+    "answer": "Project settings"
+  },
+  {
+    "question": "What is the purpose of editing the project schema?",
+    "options": [
+      "To change the Frontastic studio interface",
+      "To add fields that can be easily changed by team members",
+      "To modify the backend code",
+      "To set up API integrations"
+    ],
+    "answer": "To add fields that can be easily changed by team members"
+  },
+  {
+    "question": "Which of the following is NOT a field added in the provided example for the project schema?",
+    "options": [
+      "Title Prefix",
+      "Username",
+      "Realm",
+      "API Key"
+    ],
+    "answer": "API Key"
+  },
+  {
+    "question": "How can you validate the JSON of your project schema?",
+    "options": [
+      "By saving the schema",
+      "By running a validation script",
+      "By clicking 'Validate'",
+      "By sending it for review"
+    ],
+    "answer": "By clicking 'Validate'"
+  },
+  {
+    "question": "Where can you access the configured values from the project schema in the frontend?",
+    "options": [
+      "Directly from the project.yml file",
+      "From the database",
+      "In the context",
+      "From the API response"
+    ],
+    "answer": "In the context"
+  }
+]
